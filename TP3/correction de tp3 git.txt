@@ -1,0 +1,19 @@
+1)git config --global user.name "karim"
+2)git config --global user.email "abdelkrimrebai22@gmail.com"
+3)$ git --version
+  git version 2.23.0.windows.1
+4)$ git init
+Reinitialized existing Git repository in C:/Users/PC/.git/
+5) cd Desktop\developpement\argouml\Git\TP3_Git_GitHub
+   git add CommitTest.txt
+   git commit -m "added CommitTest.txt to the repo"
+   git status
+   git log
+   git add Test.txt
+   git status
+   git log
+   git blame CommitTest.txt
+
+
+
+   

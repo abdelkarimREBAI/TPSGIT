@@ -1,0 +1,22 @@
+
+public class Entiers {
+	private short e;
+	private int l;
+	private long f;
+	
+	public static  void pair(int l)
+	{
+		if(l%2==0)
+		{
+			System.out.println("est pair");
+		}else {
+			System.out.println("est impair");
+		}
+	}
+	public static void main(String []args)
+	{
+		
+		pair(4);
+	}
+
+}
